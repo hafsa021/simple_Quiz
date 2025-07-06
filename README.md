@@ -1,1 +1,1 @@
-# simple_Quiz
+This java program allows user to answer multiple-choice questions.This is a console-based quiz where each question contains 4 options,at the end of the quiz result will display. (Reference:- Google,YouTube..)# simple_Quiz
